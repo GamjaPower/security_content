@@ -139,3 +139,6 @@ lookups/APP_ENRICHMENT_CACHE.db.db
 lookups/CVE_CACHE.db.db
 lookups/REFERENCE_CACHE.db.db	
 *.code-workspace
+*.csv
+*.json
+runners/detection_scenarios_runner.sh
